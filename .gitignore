@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # build output
 dist/
 
@@ -37,6 +36,4 @@ Docs-Firefly/
 cache/
 package/
 .obsidian/
-=======
 node_modules
->>>>>>> my-asdhfo
