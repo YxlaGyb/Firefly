@@ -15,7 +15,7 @@ description: "与优秀的朋友们一起成长"
 站点名称: 魔女螃蟹哈希叉叉
 站点描述: 成为昨天的明天!
 站点链接: https://b.klbbx.cc
-头像链接: https://b.klbbx.cc/assets/images/avatar.webp
+头像链接: https://b.klbbx.cc/assets/images/avatar.jpg
 ```
 
 ## ✉️申请友链

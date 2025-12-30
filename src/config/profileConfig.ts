@@ -2,7 +2,7 @@ import type { ProfileConfig } from "../types/config";
 
 export const profileConfig: ProfileConfig = {
   // 头像
-  avatar: "/assets/images/avatar.webp",
+  avatar: "/assets/images/avatar.jpg",
   // 名字
   name: "YxlaGyb",
   // 个人签名
