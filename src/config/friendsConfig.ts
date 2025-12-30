@@ -4,7 +4,6 @@ import type { FriendLink } from "../types/config";
 
 // 友链配置
 export const friendsConfig: FriendLink[] = [
-<<<<<<< HEAD
   {
     title: "魔女螃蟹哈希叉叉",
     imgurl: "/assets/images/avatar.webp",
@@ -32,7 +31,6 @@ export const friendsConfig: FriendLink[] = [
     weight: 8,
     enabled: true,
   },
->>>>>>> my-asdhfo
 ];
 
 // 获取启用的友链并按权重排序
