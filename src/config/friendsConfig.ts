@@ -5,7 +5,7 @@ import type { FriendLink } from "../types/config";
 // 友链配置
 export const friendsConfig: FriendLink[] = [
   {
-    title: "魔女螃蟹哈希叉叉",
+    title: "魔女哈希双叉",
     imgurl: "/assets/images/avatar.webp",
     desc: "成为昨天的明天!",
     siteurl: "https://b.klbbx.cc",
