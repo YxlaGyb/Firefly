@@ -200,11 +200,7 @@ export const en: Translation = {
 	[Key.sponsorGoTo]: "Go to Sponsor",
 	[Key.sponsorButton]: "Support & Share",
 	[Key.sponsorButtonText]:
-<<<<<<< HEAD
-		"If this article helped you, please share or support!",
-=======
 		"Did this article help you?",
->>>>>>> my-asdhfo
 
 	[Key.shareOnSocial]: "Share",
 	[Key.shareOnSocialDescription]:
